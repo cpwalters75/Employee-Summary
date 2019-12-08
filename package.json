@@ -1,0 +1,26 @@
+{
+  "name": "employee-summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpwalters75/Employee-Summary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpwalters75/Employee-Summary/issues"
+  },
+  "homepage": "https://github.com/cpwalters75/Employee-Summary#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
